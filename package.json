@@ -1,6 +1,6 @@
 {
   "name": "better-random-puppy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A better random-puppy package.",
   "main": "index.js",
   "scripts": {
